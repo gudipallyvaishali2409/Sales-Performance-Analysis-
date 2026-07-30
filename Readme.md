@@ -59,7 +59,7 @@ Created an interactive Power BI dashboard with KPI cards, charts, and slicers.
 Images :
 ![image alt](https://github.com/gudipallyvaishali2409/Sales-Performance-Analysis-/blob/e00522481f1685b2b2cb7ee47f26661ef017fc7b/1.png)
 ![image alt](https://github.com/gudipallyvaishali2409/Sales-Performance-Analysis-/blob/7aabf90f9a13c2526df94e2a2c12de719252bdd1/2.png)
-![image alt]()
+![image alt](https://github.com/gudipallyvaishali2409/Sales-Performance-Analysis-/blob/f26155ecc5f8e8871d20afabf515524fdad87980/3.png)
 ![image alt]()
 ![image alt]()
 

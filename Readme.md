@@ -60,7 +60,11 @@ Created an interactive Power BI dashboard with KPI cards, charts, and slicers.
 Future Enhancements :
 
 Sales forecasting using machine learning.
+
 Profit prediction models.
+
 Customer purchase trend analysis.
+
 Automated dashboard refresh.
+
 Deployment using Power BI Service.

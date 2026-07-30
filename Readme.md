@@ -56,6 +56,14 @@ Monthly sales trend
 
 Created an interactive Power BI dashboard with KPI cards, charts, and slicers.
 
+Images :
+![image alt](https://github.com/gudipallyvaishali2409/Sales-Performance-Analysis-/blob/e00522481f1685b2b2cb7ee47f26661ef017fc7b/1.png)
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+
+
 
 Future Enhancements :
 

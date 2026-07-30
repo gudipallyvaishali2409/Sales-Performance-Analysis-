@@ -22,10 +22,15 @@ Dataset Used: Sample Superstore Dataset
 Tools & Technologies :
 
 Python
+
 Jupyter Notebook
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Power BI
 
 Project Workflow:
